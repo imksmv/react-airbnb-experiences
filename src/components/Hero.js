@@ -4,7 +4,7 @@ import Grid from "../assets/grid.png";
 
 const Hero = () => {
     return (
-        <div className="hero">
+        <div className="hero __CONTAINER">
             <img className="hero__img" src={Grid} alt="Grid" />
             <h1 className="hero__title">Online Experiences</h1>
             <p className="hero__text">
