@@ -35,11 +35,7 @@
     padding-left: 5px;
     color: #918e9b;
 }
-.info__li-price1 {
+.info__li-price {
     font-weight: 700;
-    color: #222;
-}
-.info__li-price2 {
-    padding-left: 5px;
     color: #222;
 }
